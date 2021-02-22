@@ -1,4 +1,4 @@
-# 开源OPC-UA-SDK 基于SpringBoot
+# 开源OPC-UA-SDK 基于SpringBoot【高精课题研究专员——桑杰逊】
 
 #### 介绍
 【基于JAVA】开源OPC-UA-SDK，基于SpringBoot，工业场景下高并发、可扩展可配置、支持客制化、可嵌入任何主流操作系统、低功耗，支持远程有偿技术指导，微信codejason。
