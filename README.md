@@ -1,7 +1,6 @@
 # 开源OPC-UA-SDK 基于SpringBoot【研究专员——桑杰逊】
 # 源码可一口价转让（支持旧设备平滑升级、智能制造改造方案）具体价格微信联系。
-##  支持远程有偿技术指导:wave: ，微信codejason :iphone: 。
-
+##  支持远程有偿技术指导:wave: ，微信【 codejason 】
 ### 介绍
 【基于JAVA】开源OPC-UA-SDK，基于SpringBoot，工业场景下高并发、可扩展可配置、支持客制化、可嵌入任何主流操作系统、低功耗，
 
